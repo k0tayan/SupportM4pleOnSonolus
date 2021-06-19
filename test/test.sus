@@ -1,0 +1,39 @@
+This score was created by M4ple Editor.
+
+Music info
+#TITLE ""
+#ARTIST ""
+#DESIGNER ""
+#DIFFICULTY 0
+#PLAYLEVEL 
+#SONGID ""
+#WAVE ""
+#WAVEOFFSET 0
+#JACKET ""
+
+Request
+#REQUEST "ticks_per_beat 384"
+#REQUEST "metronome enabled"
+#REQUEST "segments_per_second 20"
+
+BPM
+#BPM02: 120
+#00008: 02
+
+Measure's pulse
+#00002: 4
+
+ShortNote
+
+Hold
+
+Slide
+#00132A: 1424
+#0013fA: 00410000
+#00130B: 00000041
+#0013aB: 0014
+#0023aB: 24
+
+AirHold
+
+Air
