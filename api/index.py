@@ -1,7 +1,9 @@
 from flask import Flask, request
 from flask.templating import render_template
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 template = """<!DOCTYPE html>
 <html>
